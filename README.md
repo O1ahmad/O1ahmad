@@ -1,6 +1,6 @@
 ## Overview
 
-My name's Ahmad Wilson, and I'm an Infrastructure/DevOps and Backend Developer based out of Austin, TX, USA. I’m passionate about developing infrastructure and tooling for the cloud-native and web3 ecosystems. I hold a Master of Science in Artificial Intelligence (AI) and Human-Computer Interaction (HCI) from Brown University and have 15+ years of experience as an infrastructure engineer.
+My name's Ahmad Wilson, and I'm an Infrastructure/DevOps and Backend Developer based out of Austin, TX USA. I’m passionate about developing infrastructure and tooling for the cloud-native and web3 ecosystems. I hold a Master of Science in Artificial Intelligence (AI) and Human-Computer Interaction (HCI) from Brown University and have 15+ years of experience as an infrastructure engineer.
 
 
 ## 🌱 Programming Languages:
