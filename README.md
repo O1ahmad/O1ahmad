@@ -24,7 +24,7 @@ My name's Ahmad Wilson, and I'm an Infrastructure/DevOps and Backend Developer b
 * `O1 Operator:` An open, decentralized infrastructure and operations platform supporting cloud-native and web3 ecosystems. O1 develops the concept of User-Interface-as-a-Service (UIaaS) to revolutionize the way users interact with open-source services, offering a modern alternative to traditional CLI and terminal interfaces.
 * `CLI parser:` A tool designed to parse complex CLI help text into structured JSON objects, simplifying command-line operations for developers and engineers.
 * `League of Leagues Sports Analytics:` A project utilizing Pro Sports Reference web scrapers to gather sports data for advanced analytics.
-* `Cloud-native & Basic Service Deployment Abstractions:` Simplifying cloud-native deployments through reusable abstractions for various services.
+* `Cloud-Native & Basic Service Deployment Abstractions:` Simplifying cloud-native deployments through reusable abstractions for various services.
 * `Cloud-Provider Data Exporter & Benchmarking Utilities:` Tools for exporting and benchmarking cloud provider data, assisting in performance comparisons across providers.
 
 ## ⭐ Notable Repositories
