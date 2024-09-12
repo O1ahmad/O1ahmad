@@ -28,10 +28,10 @@ My name's Ahmad Wilson, and I'm an Infrastructure/DevOps and Backend Developer b
 * `Cloud-Provider Data Exporter & Benchmarking Utilities:` Tools for exporting and benchmarking cloud provider data, assisting in performance comparisons across providers.
 
 ## ⭐ Notable Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=ansible-role-systemd)](https://github.com/O1ahmad/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=operator)](https://github.com/O1ahmad/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=cli-parser)](https://github.com/O1ahmad/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=basic-service)](https://github.com/O1ahmad/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=ansible-role-systemd)](https://github.com/O1ahmad/ansible-role-systemd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=operator)](https://github.com/O1ahmad/operator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=cli-parser)](https://github.com/O1ahmad/cli-parser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=basic-service)](https://github.com/O1ahmad/basic-service)
 
 ## Github Stats
   [![Ahmad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O1ahmad&show_icons=true&theme=radical)](https://github.com/O1ahmad/github-readme-stats)
