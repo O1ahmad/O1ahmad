@@ -38,7 +38,7 @@ My name's Ahmad Wilson, and I'm an Infrastructure/DevOps and Backend Developer b
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=containers)](https://github.com/O1ahmad/containers)
 
 ## Github Stats
-  [![Ahmad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O1ahmad&show_icons=true&theme=radical)](https://github.com/O1ahmad/github-readme-stats)
+  [![Ahmad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O1ahmad&show_icons=true&theme=chartreuse-dark)](https://github.com/O1ahmad/github-readme-stats)
 
    
 ## 📫 Connect 
