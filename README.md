@@ -1,6 +1,6 @@
 ## Overview
 
-My name's Ahmad Wilson, and I'm an Infrastructure/DevOps and Backend Developer based out of Austin, TX USA. I’m passionate about developing infrastructure and tooling for the cloud-native and web3 ecosystems. I hold a Master of Science in Artificial Intelligence (AI) and Human-Computer Interaction (HCI) from Brown University and have 15+ years of experience as an infrastructure engineer.
+My name's Ahmad Wilson, and I'm an Infrastructure/DevOps and Backend Developer based out of Austin, TX USA. I’m passionate about developing infrastructure, tooling and user-interfaces for the cloud-native and web3 ecosystems. I hold a Master of Science in `Artificial Intelligence (AI)` and `Human-Computer Interaction (HCI)` from Brown University and have 15+ years of experience as an infrastructure engineer.
 
 
 ## 🌱 Programming Languages:
@@ -30,8 +30,12 @@ My name's Ahmad Wilson, and I'm an Infrastructure/DevOps and Backend Developer b
 ## ⭐ Notable Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=ansible-role-systemd)](https://github.com/O1ahmad/ansible-role-systemd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=operator)](https://github.com/O1ahmad/operator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=cli-parser)](https://github.com/O1ahmad/cli-parser)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=basic-service)](https://github.com/O1ahmad/basic-service)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=ansible-role-openssh)](https://github.com/O1ahmad/ansible-role-openssh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=aws_ec2_exporter)](https://github.com/O1ahmad/aws_ec2_exporter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=pro-sports-reference-webscraper)](https://github.com/O1ahmad/pro-sports-reference-webscraper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=cli-parser)](https://github.com/O1ahmad/cli-parser)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=containers)](https://github.com/O1ahmad/containers)
 
 ## Github Stats
   [![Ahmad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O1ahmad&show_icons=true&theme=radical)](https://github.com/O1ahmad/github-readme-stats)
