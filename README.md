@@ -40,3 +40,11 @@ My name's Ahmad Wilson, and I'm an Infrastructure/DevOps and Backend Developer b
 ## 📫 Connect 
   * [Twitter/X](https://x.com/0xBasix")
   * [LinkedIn](https://www.linkedin.com/in/ahmadwilson2411)
+
+## 🌐 Web3 Addresses
+
+**ETH (Ethereum):** 0x652eD9d222eeA1Ad843efec01E60C29bF2CF6E4c
+
+**BTC (Bitcoin):** 3E8gMxwEnfAAWbvjoPVqSz6DvPfwQ1q8Jn
+
+**ATOM (Cosmos):** cosmos19vmcf5t68w6ug45mrwjyauh4ey99u9htrgqv09
