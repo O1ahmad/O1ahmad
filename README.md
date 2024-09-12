@@ -1,3 +1,5 @@
+<p><img src="https://github.com/O1ahmad/O1ahmad/blob/main/Screenshot%20from%202024-09-12%2015-31-59.png?raw=true" alt="ansible logo" title="ansible" align="left" height="60" /></p>
+
 ## Overview
 
 My name's Ahmad Wilson and I'm an Infrastructure/DevOps and Backend Developer based out of Austin, TX USA. I’m passionate about developing infrastructure, tooling and user-interfaces for the cloud-native and web3 ecosystems. I hold a Master of Science in `Artificial Intelligence (AI)` and `Human-Computer Interaction (HCI)` from Brown University and have 15+ years of experience as an infrastructure engineer.
