@@ -46,6 +46,7 @@ My name's Ahmad Wilson and I'm an Infrastructure/DevOps and Backend Developer ba
 ## 📫 Connect 
   * [Twitter/X](https://x.com/0xBasix")
   * [LinkedIn](https://www.linkedin.com/in/ahmadwilson2411)
+  * [Substack](https://substack.com/@o1ahmad)
 
 ## 🌐 Web3 Addresses
 
