@@ -1,4 +1,4 @@
-<p><img src="https://github.com/O1ahmad/O1ahmad/blob/main/logos/v0.png?raw=true" alt="ansible logo" title="ansible" align="left" height="60" /></p>
+<p><img src="https://github.com/O1ahmad/O1ahmad/blob/main/logos/O1-concept-1-enlarged.png?raw=true" alt="ansible logo" title="O1" align="left" height="60" /></p>
 
 ## Overview
 
