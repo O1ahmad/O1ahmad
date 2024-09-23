@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hi! 👋 Ahmad Wilson here and I'm an Infrastructure/DevOps and Backend Software Engineer based out of Austin, TX USA. I’m passionate about developing infrastructure, tooling and user-interfaces for the cloud-native and web3 ecosystems. I hold a Master of Science in `Artificial Intelligence (AI)` and `Human-Computer Interaction (HCI)` from Brown University and have 15+ years of experience as an infrastructure engineer.
+Hi! 👋 Ahmad here and I'm an Infrastructure/DevOps and Backend Software Engineer based out of Austin, TX USA. I’m passionate about developing infrastructure, tooling and user-interfaces for the cloud-native and web3 ecosystems. I hold a Master of Science in `Artificial Intelligence (AI)` and `Human-Computer Interaction (HCI)` from Brown University and have 15+ years of experience as an infrastructure engineer.
 
 # Skills
 ## ⌨️ Programming Languages:
