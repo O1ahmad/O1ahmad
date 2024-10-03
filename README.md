@@ -1,6 +1,6 @@
-<p><img src="https://github.com/O1ahmad/O1ahmad/blob/main/logos/O1-concept-1-v2.png?raw=true" alt="ansible logo" title="O1" align="left" height="60" /></p>
+<p><img src="https://github.com/O1ahmad/O1ahmad/blob/main/logos/1-gold.png" alt="ansible logo" title="O1" align="left" height="77" /></p>
 
-## Overview
+# Overview
 
 Hi! 👋 Ahmad here and I'm an Infrastructure/DevOps and Backend Software Engineer with 15+ years of experience based out of Austin, TX USA. I focus on developing infrastructure, tooling and user-interfaces for the cloud-native and web3 ecosystems & hold a Master of Science in `Artificial Intelligence (AI)` and `Human-Computer Interaction (HCI)` from Brown University.
 
