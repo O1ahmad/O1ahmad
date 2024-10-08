@@ -22,6 +22,8 @@ I'm an Infrastructure/DevOps and Backend Software Engineer with 15+ years of exp
 * <img src="https://www.pulumi.com/logos/brand/avatar-on-white.svg" width="50" height="50" /> Pulumi
 * <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/kano6ajvqzze9dtjtxr7" width="50" height="50" /> Chef
 
+## 
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Digital Ocean](https://img.shields.io/badge/digitalocean-0078D7.svg?style=for-the-badge&logo=digitalocean&logoColor=white&color=%230078D7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🔭 Projects
