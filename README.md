@@ -2,8 +2,8 @@
 
 # Overview
 
-
-Hi! 👋 Ahmad here and I'm an Infrastructure/DevOps and Backend Software Engineer with 15+ years of experience based out of Austin, TX USA. I focus on developing infrastructure, tooling and user-interfaces for the cloud-native and web3 ecosystems & hold a Master of Science in `Artificial Intelligence (AI)` and `Human-Computer Interaction (HCI)` from Brown University.
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />Ahmad Wilson</h1>
+I'm an Infrastructure/DevOps and Backend Software Engineer with 15+ years of experience based out of Austin, TX USA. I focus on developing infrastructure, tooling and user-interfaces for the cloud-native and web3 ecosystems & hold a Master of Science in Artificial Intelligence (AI) and Human-Computer Interaction (HCI) from Brown University.
 
 # Tech Stack
 ## ⌨️ Programming Languages:
@@ -22,6 +22,7 @@ Hi! 👋 Ahmad here and I'm an Infrastructure/DevOps and Backend Software Engine
 * <img src="https://www.pulumi.com/logos/brand/avatar-on-white.svg" width="50" height="50" /> Pulumi
 * <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/kano6ajvqzze9dtjtxr7" width="50" height="50" /> Chef
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Digital Ocean](https://img.shields.io/badge/digitalocean-0078D7.svg?style=for-the-badge&logo=digitalocean&logoColor=white&color=%230078D7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🔭 Projects
 * `O1 Operator:` An open, decentralized infrastructure and operations platform-as-a-service (PaaS) supporting cloud-native and web3 ecosystems - built to revolutionize the way users interact with services, offering a modern alternative to traditional CLI and terminal interfaces.
