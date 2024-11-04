@@ -16,11 +16,11 @@ I'm an Infrastructure/DevOps and Backend Software Engineer with 15+ years of exp
 ## 🏗️ Infrastructure-as-Code (IaC):
 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="50" /> Kubernetes
-* <img src="https://p1.hiclipart.com/preview/177/760/852/whale-docker-oslevel-virtualisation-lxc-software-deployment-computer-network-coreos-computer-software-png-clipart.jpg" width="50" height="50" /> Docker
-* <img src="https://static-00.iconduck.com/assets.00/ansible-icon-512x512-fydu4n0b.png" width="50" height="50"/> Ansible
+* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/QmT7SEx9A1eBy9h1Ym36EYoFNuECwgUDcDmasFVqa6KSSH" width="50" height="50" /> Docker
+* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/QmS6xEafqZWhHquYquBJqMraFr26dFQXQmhFtTEjYJJyjn" width="50" height="50"/> Ansible
 * <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="50" height="50" /> Terraform
-* <img src="https://www.pulumi.com/logos/brand/avatar-on-white.svg" width="50" height="50" /> Pulumi
-* <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/kano6ajvqzze9dtjtxr7" width="50" height="50" /> Chef
+* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/QmYwFfmP4Fw6dCuRaBx4m15rApi9mcPLQmWFupwvZnNBmB" width="50" height="50" /> Pulumi
+* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/QmZzegGGt2qsF9p3artCVzpDMyJ5XNKcfhgMzzkAaBMCKx" width="50" height="50" /> Chef
 
 ## 
 
