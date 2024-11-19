@@ -1,5 +1,3 @@
-<p><img src="https://github.com/O1ahmad/O1ahmad/blob/main/logos/1-gold.png" alt="ansible logo" title="O1" align="left" height="77" /></p>
-
 # Overview
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />Ahmad Wilson</h1>
