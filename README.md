@@ -12,7 +12,7 @@ I'm an Infrastructure/DevOps and Backend Software Engineer with 15+ years of exp
 ## 🏗️ Infrastructure-as-Code (IaC):
 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="50" /> Kubernetes
-* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/QmT7SEx9A1eBy9h1Ym36EYoFNuECwgUDcDmasFVqa6KSSH" width="50" height="50" /> Docker
+* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/bafkreifb7d57mgmncl5dh6pbea7ec27emesqnxcgqw7dfyaliq56hegsn4" width="50" height="50" /> Docker
 * <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/QmS6xEafqZWhHquYquBJqMraFr26dFQXQmhFtTEjYJJyjn" width="50" height="50"/> Ansible
 * <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="50" height="50" /> Terraform
 * <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/bafkreid3iqfoi3nzteuui242wx4j55uc5gsjwhrzf343km4z2r5fzrrbry" width="50" height="50" /> Pulumi
