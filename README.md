@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />Ahmad Wilson</h1>
 
-I'm an Infrastructure/DevOps and Backend Software Engineer based out of Austin, TX USA. I focus on developing infrastructure and tooling for the cloud-native and web3 ecosystems & hold a Master of Science in Artificial Intelligence (AI) and Human-Computer Interaction (HCI) from Brown University.
+I'm an Infrastructure/DevOps and Backend Software Engineer based in the USA. I focus on developing infrastructure and tooling for the cloud-native and web3 ecosystems & hold a Master of Science in Artificial Intelligence (AI) and Human-Computer Interaction (HCI) from Brown University.
 
 ### ✨ Overview:
 - **Experience & Expertise**: 15+ years specializing in software infrastructure/backend development, developer operations (DevOps) and tools/user-interface design.
