@@ -34,20 +34,6 @@ I'm an Infrastructure/DevOps and Backend Software Engineer based in the USA. I f
 * `League of Leagues Sports Analytics:` A project utilizing Pro Sports Reference web scrapers to gather sports data for advanced analytics.
 * `Cloud-Native & Basic Service Deployment Abstractions:` IaC solutions for simplifying cloud-native deployments through reusable service abstractions.
 * `Cloud-Provider Data Exporter & Benchmarking Utilities:` Tools for exporting and benchmarking cloud provider data, assisting in performance comparisons across providers.
-
-## ⭐ Notable Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=ansible-role-systemd)](https://github.com/O1ahmad/ansible-role-systemd)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=operator)](https://github.com/O1ahmad/operator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=basic-service)](https://github.com/O1ahmad/basic-service)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=ansible-role-openssh)](https://github.com/O1ahmad/ansible-role-openssh)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=aws_ec2_exporter)](https://github.com/O1ahmad/aws_ec2_exporter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=pro-sports-reference-webscraper)](https://github.com/O1ahmad/pro-sports-reference-webscraper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=cli-parser)](https://github.com/O1ahmad/cli-parser)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=O1ahmad&repo=containers)](https://github.com/O1ahmad/containers)
-
-## Github Stats
-  [![Ahmad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O1ahmad&show_icons=true&theme=chartreuse-dark)](https://github.com/O1ahmad/github-readme-stats)
-
    
 ## 📫 Connect 
   * [Twitter/X](https://x.com/0xBasix)
