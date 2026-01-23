@@ -13,6 +13,7 @@ I'm an Infrastructure/DevOps and Backend Software Engineer based in the USA. I f
 * <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"  alt="python" width="50" height="50"/> Python
 * <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="bash" width="50" height="50"/> Bash
 * <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="50" height="50"/> Golang
+* <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50" height="50"/> Ruby
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> TypeScript
 
 ## 🏗️ Infrastructure-as-Code (IaC):
