@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />Ahmad Wilson</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/waving-hand.png" alt="Waving Hand" width="50" height="50" />Ahmad Wilson</h1>
 
 I'm an Infrastructure/DevOps and Backend Software Engineer based in the USA. I focus on developing infrastructure and tooling for the cloud-native and web3 ecosystems & hold a Master of Science in Artificial Intelligence (AI) and Human-Computer Interaction (HCI) from Brown University.
 
@@ -10,20 +10,20 @@ I'm an Infrastructure/DevOps and Backend Software Engineer based in the USA. I f
 # Tech Stack
 ## ⌨️ Programming Languages:
 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"  alt="python" width="50" height="50"/> Python
-* <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="bash" width="50" height="50"/> Bash
-* <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="50" height="50"/> Golang
-* <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50" height="50"/> Ruby
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> TypeScript
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/python-logo.svg"  alt="python" width="50" height="50"/> Python
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/bash-logo.svg" alt="bash" width="50" height="50"/> Bash
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/go-logo.svg" width="50" height="50"/> Golang
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/ruby-logo.svg" width="50" height="50"/> Ruby
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/typescript-logo.svg" width="50" height="50"/> TypeScript
 
 ## 🏗️ Infrastructure-as-Code (IaC):
 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="50" /> Kubernetes
-* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/bafkreifb7d57mgmncl5dh6pbea7ec27emesqnxcgqw7dfyaliq56hegsn4" width="50" height="50" /> Docker
-* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/bafkreicsjzqds4cwr6kch66cacdmpynx6xjsmr3mtxj5ge2gwl4ywtlklq" width="50" height="50"/> Ansible
-* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/bafkreihjlhb3zhkwgx2dnpzcgaxwzoiwqhblr7y4h2a5wkplbhsjjeimhe" width="50" height="50" /> Terraform
-* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/bafkreid3iqfoi3nzteuui242wx4j55uc5gsjwhrzf343km4z2r5fzrrbry" width="50" height="50" /> Pulumi
-* <img src="https://coral-abundant-cicada-457.mypinata.cloud/ipfs/bafkreibg4qqruge7wlmzxvcsng3rq62g7nefupjttccgq7fh4555aglea4" width="50" height="50" /> Chef
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/kubernetes-logo.svg" width="50" height="50" /> Kubernetes
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/docker-logo.svg" width="50" height="50" /> Docker
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/ansible-logo.svg" width="50" height="50"/> Ansible
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/terraform-logo.svg" width="50" height="50" /> Terraform
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/pulumi-logo.svg" width="50" height="50" /> Pulumi
+* <img src="https://raw.githubusercontent.com/O1ahmad/O1ahmad/main/assets/chef-logo.svg" width="50" height="50" /> Chef
 
 ## 📟 Developer Operations
 
