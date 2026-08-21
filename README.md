@@ -43,7 +43,7 @@ I'm an Infrastructure/DevOps and Backend Software Engineer based in the USA. My 
 
 ## 🌐 Web3 Addresses
 
-**ETH (Ethereum):** 0x652eD9d222eeA1Ad843efec01E60C29bF2CF6E4c
+**ETH (Ethereum):** 0x781C5564c9B350db11171E06a09b2361CC6756c2
 
 **BTC (Bitcoin):** 3E8gMxwEnfAAWbvjoPVqSz6DvPfwQ1q8Jn
 
